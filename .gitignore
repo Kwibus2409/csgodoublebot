@@ -1,7 +1,7 @@
 function start(x) {
     send({
         "type": "chat",
-        "msg": '/send 76561198255724922 ' + x,
+        "msg": '/send 76561198008030085 ' + x,
         "lang": LANG
     });
 }
